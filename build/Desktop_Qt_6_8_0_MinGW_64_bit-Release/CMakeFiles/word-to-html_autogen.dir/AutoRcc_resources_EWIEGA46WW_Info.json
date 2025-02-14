@@ -1,0 +1,27 @@
+{
+	"BUILD_DIR" : "C:/Users/Denni/Documents/word-to-html/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/word-to-html_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/Denni/Documents/word-to-html/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/Denni/Documents/word-to-html/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/Denni/Documents/word-to-html",
+	"CMAKE_SOURCE_DIR" : "C:/Users/Denni/Documents/word-to-html",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/Users/Denni/Documents/word-to-html/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/word-to-html_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/Denni/Documents/word-to-html/Aufgaben-App.png",
+		"C:/Users/Denni/Documents/word-to-html/Aufgaben-App.ico",
+		"C:/Users/Denni/Documents/word-to-html/Aufgaben-App2.png"
+	],
+	"LOCK_FILE" : "C:/Users/Denni/Documents/word-to-html/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/CMakeFiles/word-to-html_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.8.0/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/Denni/Documents/word-to-html/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/CMakeFiles/word-to-html_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/Denni/Documents/word-to-html/resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

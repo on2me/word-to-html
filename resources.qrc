@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Aufgaben-App.ico</file>
+        <file>Aufgaben-App.png</file>
+        <file>Aufgaben-App2.png</file>
+    </qresource>
+</RCC>

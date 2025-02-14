@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-550645ed7a2435fb2011.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "word-to-html",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "word-to-html::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-word-to-html-Release-56ee8e50ba7a2d3a25c5.json",
+					"name" : "word-to-html",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "word-to-html_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-word-to-html_autogen-Release-b8dc00e6112c8912416c.json",
+					"name" : "word-to-html_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "word-to-html_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-word-to-html_autogen_timestamp_deps-Release-33e1bac4d03acec723ca.json",
+					"name" : "word-to-html_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Denni/Documents/word-to-html/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release",
+		"source" : "C:/Users/Denni/Documents/word-to-html"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
